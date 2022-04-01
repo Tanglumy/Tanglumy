@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Here is Lumingyuan Tang
+
+- 🤔Undergra@NKU
+- 📈NLPer
+- 🏀Kobe Fan
+- 💻coding for fun
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Tanglumy)]()
 
 <!--
 **Tanglumy/Tanglumy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
