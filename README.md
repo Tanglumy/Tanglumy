@@ -1,6 +1,6 @@
 ### Hi there 👋 Here is Lumingyuan Tang
 
-- 🤔 Graduate@USC
+- 🤔 Graduate Student@USC
 - 📈 NLPer
 - 🏀 Kobe Fan
 - 💻 Coding for fun
