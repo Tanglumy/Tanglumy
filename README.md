@@ -1,6 +1,6 @@
 ### Hi there 👋 Here is Lumingyuan Tang
 
-- 🤔 Undergrad@NKU
+- 🤔 Graduate@USC
 - 📈 NLPer
 - 🏀 Kobe Fan
 - 💻 Coding for fun
