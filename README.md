@@ -1,7 +1,7 @@
 ### Hi there 👋 Here is Lumingyuan Tang
 
-- 🤔 Graduate Student@USC
-- 📈 NLPer
+- 🤔 Machine Learning Engineer@TikTok🎵
+- 📈 NLP, deep learning, Large Language Model and Recommendation Modeling
 - 🏀 Kobe Fan
 - 💻 Coding for fun
 
